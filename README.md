@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there，I'm LuHuiPeng 👋
+
+**大家好我叫卢同学**
+- 是一名前端Er
+
+
+[![luhuipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhp96&show_icons=true&icon_color=f3d959&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lhp96/lhp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

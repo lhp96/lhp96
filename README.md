@@ -1,11 +1,11 @@
 ### Hi there，I'm LuHuiPeng 👋
 
 **大家好我叫卢同学**
-- 是一名前端Er
+- 是一名前端Er  &nbsp;&nbsp;&nbsp;🔭
+- 对Vue情有独钟 <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
+- 终生学习 like: 算法、JavaScript、Linux
 
-
-[![luhuipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhp96&show_icons=true&icon_color=f3d959&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" width="96%" src="https://github-readme-stats.vercel.app/api?username=lhp96&show_icons=true&icon_color=f3d959&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <!--
 **lhp96/lhp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
